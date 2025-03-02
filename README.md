@@ -1,5 +1,3 @@
-<img width="1452" alt="Screenshot 2025-03-03 at 12 03 24 AM" src="https://github.com/user-attachments/assets/eabe3d2f-ae88-48de-b91e-96ea0a765ecc" /># Portfolio - Kavya Kumar Thakur
-
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences with a modern, animated, and responsive design.
 
 ## 🚀 Features
